@@ -1,5 +1,5 @@
 ---
-title: Nepal
+title: Chitwan
 subtitle: 
 layout: default
 modal-id: 1

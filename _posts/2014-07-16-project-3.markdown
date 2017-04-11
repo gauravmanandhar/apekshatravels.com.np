@@ -1,5 +1,5 @@
 ---
-title: Golden
+title: Pasupatinath Temple
 subtitle: 
 layout: 
 modal-id: 3

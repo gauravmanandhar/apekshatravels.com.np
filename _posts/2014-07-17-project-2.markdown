@@ -1,5 +1,5 @@
 ---
-title: Mt.Everst
+title: Pokhara
 subtitle: 
 layout: 
 modal-id: 2

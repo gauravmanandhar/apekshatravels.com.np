@@ -4,8 +4,8 @@ subtitle:
 layout: 
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: Pasupatinath.png
+thumbnail: Pasupatinath-thumbnail.png
 alt: image-alt
 project-date: 
 client: Start 

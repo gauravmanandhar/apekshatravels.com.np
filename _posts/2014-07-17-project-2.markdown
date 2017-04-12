@@ -14,6 +14,6 @@ category:
 description:.
 =======
 description: Pokhara is the largest city of Nepal in terms of area and often refereed as the tourism capital of nepal.
->>>>>>> 0f9f6af97f391b667a64c3fbdec640adb990d116
+>>>>>>> 
 
 ---

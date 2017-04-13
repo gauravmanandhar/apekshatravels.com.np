@@ -2,7 +2,7 @@
 title: Pokhara
 subtitle: 
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2014-07-18
 img: Pokhara.png
 thumbnail: Pokhara-thumbnail.png

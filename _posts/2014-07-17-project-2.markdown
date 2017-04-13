@@ -10,9 +10,6 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-<<<<<<< HEAD
 description:Pokhara is the largest city of Nepal in terms of area and often refereed as the tourism capital of nepal.
-=======
 description:
->>>>>>> 
 ---

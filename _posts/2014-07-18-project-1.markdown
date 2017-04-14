@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description:The Chitwan Nation Park is a World heritage site and first National park in Nepal.Meaning of 'Chitwan'is 'Heart of Jungle'.Chitwan is famous as one of the best wild-life viewing National parks in Asia .
 
 ---
